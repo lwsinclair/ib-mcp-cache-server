@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ibproduct-ib-mcp-cache-server-badge.png)](https://mseep.ai/app/ibproduct-ib-mcp-cache-server)
+
 # Memory Cache Server
 
 A Model Context Protocol (MCP) server that reduces token consumption by efficiently caching data between language model interactions. Works with any MCP client and any language model that uses tokens.
